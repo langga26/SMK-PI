@@ -1,0 +1,3 @@
+[submodule "SMK-PI"]
+	path = SMK-PI
+	url = https://github.com/langga26/SMK-PI.git
